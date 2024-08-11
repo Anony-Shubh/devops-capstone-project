@@ -1,5 +1,5 @@
 ---
-name: issue template
+name: user-story
 about: issue template of devops-capstone-project
 title: ''
 labels: ''
